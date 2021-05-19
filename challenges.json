@@ -1,0 +1,72 @@
+[
+    {  
+        "type": "body",
+        "description": "Estique as pernas à frente do seu corpo e alongue-se tentando pegar as pontas dos pés com as mãos",
+        "amount": 80
+    },
+    {  
+        "type": "body",
+        "description": "Gire a cintura o máximo que puder para a esquerda, segure por cinco segundos. Em seguida, repita o movimento girando para a direita. Tente repetir o movimento cinco vezes de cada lado ",
+        "amount": 60
+    },
+    {  
+        "type": "body",
+        "description": "Faça um alongamento com os braços com a parte posterior, entrelaçando as mãos na parte do encostamento da cadeira",
+        "amount": 70
+    },
+    {  
+        "type": "body",
+        "description": "Gire os tornozelos em ambas as direções (direita e esquerda) por cerca de cinco segundos. Tente fazer cinco séries de oito repetições em cada direção.",
+        "amount": 60 
+    },
+    {  
+        "type": "body",
+        "description": "Estique seu braço direito em direção ao lado esquerdo o máximo que puder. Apoie a mão esquerda na dobra do seu cotovelo esquerdo, ajudando a alongá-lo. Sinta o alongamento por cerca de cinco segundos e, depois, faça o mesmo movimento com o outro braço. Tente repetir cinco vezes de cada lado.",
+        "amount": 100
+    },
+    {  
+        "type": "body",
+        "description": "Apoie a mão na mesa (esticando os braços), mantendo o tronco reto. As orelhas devem ficar entre os braços. Mantenha a posição por cerca de 20 segundos.",
+        "amount": 80
+    },
+    {
+        "type":"body",
+        "description":"Coloque as mãos atrás da cabeça e leve os cotovelos lentamente para trás. Mantenha a posição por cerca de 20 segundos.",
+        "amount":50
+    },
+    {
+        "type":"body",
+        "description":"Mexa cada um dos seus dedos com cuidado: estenda-os, flexione-os, abra-os e feche-os.",
+        "amount":140
+    },
+    {
+        "type":"body",
+        "description":"Cruze a perna direita sobre a esquerda, puxando a coxa com a mão esquerda, e virando o tronco para o lado esquerdo. Mantenha a posição por 20 segundos e depois repita para o outro lado.",
+        "amount":70
+    },
+    {
+        "type":"body",
+        "description":"Mantenha-se sentada na cadeira, com a coluna reta, e, com os ombros relaxados, olhe de um lado para o outro, lentamente.",
+        "amount":90
+    },
+    {
+        "type":"body",
+        "description":"Mantenha-se sentada na cadeira, com a coluna reta, e, com os ombros relaxados, olhe para baixo e para cima.",
+        "amount":80
+    },
+    {
+        "type":"body",
+        "description":"Com a ajuda da mão, traga o pescoço para o lado e segure por alguns segundos. Depois, repita para o lado contrário.",
+        "amount":40
+    },
+    {
+        "type":"body",
+        "description":"Olhe para o chão e, segurando mais atrás da cabeça, tente encostar o queixo no peito, mais inclinado para o lado direito. Depois, repita para o outro lado.",
+        "amount":30
+    },
+    {
+        "type":"body",
+        "description":"Com o braço direito atrás da cabeça e a mão esquerda apoiada no cotovelo direito, force a mão para descer o braço o máximo que puder. Depois, repita com o outro braço.",
+        "amount":20
+    }
+]
